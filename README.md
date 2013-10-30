@@ -27,7 +27,7 @@ http://www.chromelogger.com
 
 
 ##Usage 
-After installing you can simply log data anywhere as the following :
+After installation you can simply log data anywhere as the following :
 
 ```
     ChromePhp::log('Hello console!');
