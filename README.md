@@ -1,3 +1,6 @@
+why is the chomrephp folder not included ?
+
+
 ##Overview
 wp-ChromeLogger is a simple WordPress mu-plugin which wraps Chrome Logger: 
 https://github.com/ccampbell/chromephp for global usage.
