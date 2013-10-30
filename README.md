@@ -20,7 +20,7 @@ http://www.chromelogger.com
 4. Run the following terminal command in the previous generated folder (or download and extract)
 
     ```
-    git clone 
+    git clone https://github.com/daslicht/wp-ChromeLogger.git
     ```
 
 5. Copy "autoload-ChromeLogger.php" to ```/wp-content/mu-plugins```
