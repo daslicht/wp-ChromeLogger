@@ -1,6 +1,7 @@
 ##Overview
 wp-ChromeLogger is a simple WordPress mu-plugin which wraps Chrome Logger: 
 https://github.com/ccampbell/chromephp
+
 It allows you to log variables, arrays and even Objects to the Chrome Console.
 
 More information can be found here:
