@@ -40,3 +40,7 @@ References:
 http://codex.wordpress.org/Must_Use_Plugins
 
 
+=======
+wp-ChromeLogger
+===============
+>>>>>>> 5e187a5de67b9e49e3de228c5e5984c27ab86de9
